@@ -1,4 +1,4 @@
-# Andora Clouds Mirror
+# Andora-MirrorBot
 ![GitHub Repo stars](https://img.shields.io/github/stars/blackdeep04/deepak-clouds-mirror?color=blue&style=flat)
 ![GitHub forks](https://img.shields.io/github/forks/blackdeep04/deepak-clouds-mirror?color=green&style=flat)
 ![GitHub issues](https://img.shields.io/github/issues/blackdeep04/deepak-clouds-mirror/deepak-clouds-mirror)
@@ -7,12 +7,12 @@
 ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/blackdeep04/deepak-clouds-mirror)
 ![GitHub contributors](https://img.shields.io/github/contributors/blackdeep04/deepak-clouds-mirror?style=flat)
 ![GitHub repo size](https://img.shields.io/github/repo-size/blackdeep04/deepak-clouds-mirror?color=red)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/blackdeep04/deepak-clouds-mirror)
-![GitHub](https://img.shields.io/github/license/blackdeep04/deepak-clouds-mirror)
-[![Slam Mirror Support](https://img.shields.io/badge/Andora%20MirrorBot-support%20group-blue)](https://telegram.dog/RwSZay)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/blackdeep04/andora-mirrorbot)
+![GitHub](https://img.shields.io/github/license/blackdeep04/andora-mirrorbot)
+[![Slam Mirror Support](https://img.shields.io/badge/Andora%20MirrorBot-support%20channel-blue)](https://telegram.dog/RwSZay)
 
 **Deepak Clouds Torrent** is a _multipurpose_ Telegram Bot writen in Python for mirroring files on the Internet to our beloved Google Drive.
-[Supported Groups](https://telegram.dog/cloudsmirror)
+[Supported Channel](https://telegram.dog/RwSZay)
 # Features supported:
 ## Additional Features
 - Get detailed info about replied media (Only for Telegram file)
