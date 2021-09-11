@@ -8,7 +8,7 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/blackdeep04/deepak-clouds-mirror?style=flat)
 ![GitHub repo size](https://img.shields.io/github/repo-size/blackdeep04/deepak-clouds-mirror?color=red)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/blackdeep04/andora-mirrorbot)
-![GitHub](https://img.shields.io/github/license/blackdeep04/andora-mirrorbot)
+![GitHub](https://img.shields.io/github/license/wibumylife/andora-mirrorbot)
 [![Slam Mirror Support](https://img.shields.io/badge/Andora%20MirrorBot-support%20channel-blue)](https://telegram.dog/RwSZay)
 
 **Deepak Clouds Torrent** is a _multipurpose_ Telegram Bot writen in Python for mirroring files on the Internet to our beloved Google Drive.
