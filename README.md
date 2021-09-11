@@ -5,7 +5,7 @@
 ![GitHub closed issues](https://img.shields.io/github/issues-closed/blackdeep04/deepak-clouds-mirror)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/blackdeep04/deepak-clouds-mirror)
 ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/blackdeep04/deepak-clouds-mirror)
-![GitHub contributors](https://img.shields.io/github/contributors/blackdeep04/deepak-clouds-mirror?style=flat)
+![GitHub contributors](https://img.shields.io/github/contributors/wibumylife/andora-mirrorbot?style=flat)
 ![GitHub repo size](https://img.shields.io/github/repo-size/wibumylife/andora-mirrorbot?color=red)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/wibumylife/andora-mirrorbot)
 ![GitHub](https://img.shields.io/github/license/wibumylife/andora-mirrorbot)
