@@ -75,7 +75,7 @@
         "required": true
       },
       "UPSTREAM_REPO": {
-        "description": "Link for Bot Upstream Repo, If you want default update, Fill https://github.com/blackdeep04/deepak-clouds-mirror.",
+        "description": "Link for Bot Upstream Repo, If you want default update, Fill https://github.com/wibumylife/andora-mirrorbot.",
         "value": "https://github.com/blackdeep04/deepak-clouds-mirror",
         "required": true
       },
