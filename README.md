@@ -1,8 +1,8 @@
 # Andora-MirrorBot
-![GitHub Repo stars](https://img.shields.io/github/stars/blackdeep04/deepak-clouds-mirror?color=blue&style=flat)
-![GitHub forks](https://img.shields.io/github/forks/blackdeep04/deepak-clouds-mirror?color=green&style=flat)
-![GitHub issues](https://img.shields.io/github/issues/blackdeep04/deepak-clouds-mirror/deepak-clouds-mirror)
-![GitHub closed issues](https://img.shields.io/github/issues-closed/blackdeep04/deepak-clouds-mirror)
+![GitHub Repo stars](https://img.shields.io/github/stars/wibumylife/andora-mirrorbot?color=blue&style=flat)
+![GitHub forks](https://img.shields.io/github/forks/wibumylife/andora-mirrorbot?color=green&style=flat)
+![GitHub issues](https://img.shields.io/github/issues/wibumylife/andora-mirrorbot/deepak-clouds-mirror)
+![GitHub closed issues](https://img.shields.io/github/issues-closed/wibumylife/andora-mirrorbot)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/wibumylife/andora-mirrorbot)
 ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/wibumylife/andora-mirrorbot)
 ![GitHub contributors](https://img.shields.io/github/contributors/wibumylife/andora-mirrorbot?style=flat)
