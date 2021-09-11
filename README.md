@@ -1,3 +1,5 @@
+[![Slam](https://telegra.ph/file/9b43516268ecefe142f76.png)](https://telegram.dog/RwSZay)
+
 # Andora-MirrorBot
 ![GitHub Repo stars](https://img.shields.io/github/stars/wibumylife/andora-mirrorbot?color=blue&style=flat)
 ![GitHub forks](https://img.shields.io/github/forks/wibumylife/andora-mirrorbot?color=green&style=flat)
