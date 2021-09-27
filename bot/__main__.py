@@ -140,7 +140,7 @@ def bot_help(update, context):
 
 /{BotCommands.ShellCommand}: Run commands in Shell (Terminal).
 
-/tshelp: Get help for Torrent search module.
+/tshelpp: Get help for Torrent search module.
 '''
 
     help_string = f'''
@@ -172,7 +172,7 @@ def bot_help(update, context):
 
 /{BotCommands.MediaInfoCommand}: Get detailed info about replied media (Only for Telegram file).
 
-/tshelp: Get help for Torrent search module.
+/tshelpp: Get help for Torrent search module.
 '''
 
     if CustomFilters.sudo_user(update) or CustomFilters.owner_filter(update):
