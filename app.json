@@ -1,14 +1,14 @@
 {
-    "name": "Andora-MirrorBot",
+    "name": "dairyuu-mirrorbot",
     "description": "A Telegram bot for all your mirror needs",
-    "logo": "https://telegra.ph/file/9b43516268ecefe142f76.png",
+    "logo": "https://telegra.ph/file/50998c3f9190be7c097d6.png",
     "keywords": [
       "bot",
       "telegram",
       "python"
     ],
-    "repository": "https://github.com/wibumylife/andora-mirrorbot",
-    "website": "https://github.com/wibumylife/andora-mirrorbot",
+    "repository": "https://github.com/wibumylife/dairyuu-mirrorbot",
+    "website": "https://github.com/wibumylife/dairyuu-mirrorbot",
     "success_url": "https://t.me/RwSZay",
     "stack": "container",
     "env": {
