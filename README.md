@@ -1,17 +1,17 @@
 [![Slam](https://telegra.ph/file/50998c3f9190be7c097d6.png)](https://telegram.dog/RwSZay)
 
-# Andora-MirrorBot
-![GitHub Repo stars](https://img.shields.io/github/stars/wibumylife/andora-mirrorbot?color=blue&style=flat)
-![GitHub forks](https://img.shields.io/github/forks/wibumylife/andora-mirrorbot?color=green&style=flat)
-![GitHub issues](https://img.shields.io/github/issues/wibumylife/andora-mirrorbot/andora-mirrorbot)
-![GitHub closed issues](https://img.shields.io/github/issues-closed/wibumylife/andora-mirrorbot)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/wibumylife/andora-mirrorbot)
-![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/wibumylife/andora-mirrorbot)
-![GitHub contributors](https://img.shields.io/github/contributors/wibumylife/andora-mirrorbot?style=flat)
-![GitHub repo size](https://img.shields.io/github/repo-size/wibumylife/andora-mirrorbot?color=red)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/wibumylife/andora-mirrorbot)
-![GitHub](https://img.shields.io/github/license/wibumylife/andora-mirrorbot)
-[![Slam Mirror Support](https://img.shields.io/badge/Andora%20MirrorBot-support%20channel-blue)](https://telegram.dog/RwSZay)
+# dairyuu-mirrorbot
+![GitHub Repo stars](https://img.shields.io/github/stars/wibumylife/dairyuu-mirrorbot?color=blue&style=flat)
+![GitHub forks](https://img.shields.io/github/forks/wibumylife/dairyuu-mirrorbot?color=green&style=flat)
+![GitHub issues](https://img.shields.io/github/issues/wibumylife/dairyuu-mirrorbot/dairyuu-mirrorbot)
+![GitHub closed issues](https://img.shields.io/github/issues-closed/wibumylife/dairyuu-mirrorbot)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/wibumylife/dairyuu-mirrorbot)
+![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/wibumylife/dairyuu-mirrorbot)
+![GitHub contributors](https://img.shields.io/github/contributors/wibumylife/dairyuu-mirrorbot?style=flat)
+![GitHub repo size](https://img.shields.io/github/repo-size/wibumylife/dairyuu-mirrorbot?color=red)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/wibumylife/dairyuu-mirrorbot)
+![GitHub](https://img.shields.io/github/license/wibumylife/dairyuu-mirrorbot)
+[![Slam Mirror Support](https://img.shields.io/badge/dairyuu%20mirrorbot-support%20channel-blue)](https://telegram.dog/RwSZay)
 
 **Deepak Clouds Torrent** is a _multipurpose_ Telegram Bot writen in Python for mirroring files on the Internet to our beloved Google Drive.
 [Supported Channel](https://telegram.dog/RwSZay)
@@ -73,7 +73,7 @@ Deploying is pretty much straight forward and is divided into several steps as f
 
 - Clone this repo:
 ```
-git clone https://github.com/wibumylife/andora-mirrorbot/
+git clone https://github.com/wibumylife/dairyuu-mirrorbot/
 cd mirrorbot
 ```
 
