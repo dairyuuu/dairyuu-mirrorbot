@@ -296,14 +296,14 @@ RESULT_STR_ALL = (
 )
 
 torrents_dict = {
-    '1337x': {'source': "https://slam-api.herokuapp.com/api/1337x/", 'result_str': RESULT_STR_1337},
-    'piratebay': {'source': "https://slam-api.herokuapp.com/api/piratebay/", 'result_str': RESULT_STR_PIRATEBAY},
-    'tgx': {'source': "https://slam-api.herokuapp.com/api/tgx/", 'result_str': RESULT_STR_TGX},
-    'yts': {'source': "https://slam-api.herokuapp.com/api/yts/", 'result_str': RESULT_STR_YTS},
-    'eztv': {'source': "https://slam-api.herokuapp.com/api/eztv/", 'result_str': RESULT_STR_EZTV},
-    'torlock': {'source': "https://slam-api.herokuapp.com/api/torlock/", 'result_str': RESULT_STR_TORLOCK},
-    'rarbg': {'source': "https://slam-api.herokuapp.com/api/rarbg/", 'result_str': RESULT_STR_RARBG},
-    'ts': {'source': "https://slam-api.herokuapp.com/api/all/", 'result_str': RESULT_STR_ALL}
+    '1337xx': {'source': "https://slam-api.herokuapp.com/api/1337x/", 'result_str': RESULT_STR_1337},
+    'piratebayy': {'source': "https://slam-api.herokuapp.com/api/piratebay/", 'result_str': RESULT_STR_PIRATEBAY},
+    'tgxx': {'source': "https://slam-api.herokuapp.com/api/tgx/", 'result_str': RESULT_STR_TGX},
+    'ytss': {'source': "https://slam-api.herokuapp.com/api/yts/", 'result_str': RESULT_STR_YTS},
+    'eztvv': {'source': "https://slam-api.herokuapp.com/api/eztv/", 'result_str': RESULT_STR_EZTV},
+    'torlockk': {'source': "https://slam-api.herokuapp.com/api/torlock/", 'result_str': RESULT_STR_TORLOCK},
+    'rarbgg': {'source': "https://slam-api.herokuapp.com/api/rarbg/", 'result_str': RESULT_STR_RARBG},
+    'tss': {'source': "https://slam-api.herokuapp.com/api/all/", 'result_str': RESULT_STR_ALL}
 }
 
 torrent_handlers = []
@@ -312,19 +312,19 @@ for command, value in torrents_dict.items():
 
 def searchhelp(update, context):
     help_string = '''
-• /nyaa <i>[search query]</i>
-• /sukebei <i>[search query]</i>
-• /1337x <i>[search query]</i>
-• /piratebay <i>[search query]</i>
-• /tgx <i>[search query]</i>
-• /yts <i>[search query]</i>
-• /eztv <i>[search query]</i>
-• /torlock <i>[search query]</i>
-• /rarbg <i>[search query]</i>
-• /ts <i>[search query]</i>
+• /nyaaa <i>[search query]</i>
+• /sukebeii <i>[search query]</i>
+• /1337xx <i>[search query]</i>
+• /piratebayy <i>[search query]</i>
+• /tgxx <i>[search query]</i>
+• /ytss <i>[search query]</i>
+• /eztvv <i>[search query]</i>
+• /torlockk <i>[search query]</i>
+• /rarbgg <i>[search query]</i>
+• /tss <i>[search query]</i>
 '''
     update.effective_message.reply_photo(IMAGE_URL, help_string, parse_mode=ParseMode.HTML)
     
     
-SEARCHHELP_HANDLER = CommandHandler("tshelp", searchhelp, filters=(CustomFilters.authorized_chat | CustomFilters.authorized_user) & CustomFilters.mirror_owner_filter, run_async=True)
+SEARCHHELP_HANDLER = CommandHandler("tshelpp", searchhelp, filters=(CustomFilters.authorized_chat | CustomFilters.authorized_user) & CustomFilters.mirror_owner_filter, run_async=True)
 dispatcher.add_handler(SEARCHHELP_HANDLER)
